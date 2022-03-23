@@ -1,2 +1,2 @@
-# DEMON
+# DEMON.MD
 My second one
